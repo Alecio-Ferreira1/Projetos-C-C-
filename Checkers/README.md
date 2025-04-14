@@ -1,3 +1,3 @@
 #Projeto criado com a biblioteca SFML
 
-É necessário a instalação da lib para rodar o projeto.
+É necessário a instalação da biblioteca para rodar o projeto.
